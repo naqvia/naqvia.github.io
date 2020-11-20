@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Ammar S. Abbas Naqvi"
-  avatar           : "profile.png"
+  avatar           : "https://wtoz2169xad1fy7dm21hr1w4-wpengine.netdna-ssl.com/wp-content/uploads/2020/04/LND_AF518DE8-1B02-4FE3-AEB0-65FEF269C8C8-300x227.jpg"
   bio              : "Bioinformatics Scientist"
   location         : "Childrens Hospital of Philadelphia"
-  employer         : "Center for Data-Driven Discovery in Biomedicine"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : 
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=ammar+s+naqvi"
   googlescholar    : "https://scholar.google.com/citations?user=VXP8W38AAAAJ&hl=en"
   email            :  "naqvia@chop.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "aanaqvi"
   vine             :
   weibo            :
   xing             :
