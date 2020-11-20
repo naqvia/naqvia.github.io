@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ammar S. Abbas Naqvi"
+  name             : "Ammar S. Naqvi"
   avatar           : "https://wtoz2169xad1fy7dm21hr1w4-wpengine.netdna-ssl.com/wp-content/uploads/2020/04/LND_AF518DE8-1B02-4FE3-AEB0-65FEF269C8C8-300x227.jpg"
   bio              : "Bioinformatics Scientist"
   location         : "Childrens Hospital of Philadelphia"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/ammar-naqvi-493a794/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
