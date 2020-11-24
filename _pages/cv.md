@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Bioinformatics, GitHub University, 2006
+* M.S. in Computational Biology and Bioinformatics, GitHub University, 2010
+* Ph.D in Computational and Integrative Biology, GitHub University, 2015 
 
 Work experience
 ======
