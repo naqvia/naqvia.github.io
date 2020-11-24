@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Bioinformatics, GitHub University, 2006
-* M.S. in Computational Biology and Bioinformatics, GitHub University, 2010
-* Ph.D in Computational and Integrative Biology, GitHub University, 2015 
+* B.S. in Bioinformatics, Rochester Institute of Technology, 2006
+* M.S. in Computational Biology and Bioinformatics, George Mason University, 2010
+* Ph.D in Computational and Integrative Biology, Rutgers University, 2015 
 
 Work experience
 ======
