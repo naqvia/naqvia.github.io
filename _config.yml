@@ -11,9 +11,9 @@ title                    : "Ammar S. Naqvi"
 title_separator          : "-"
 name                     : &name "Ammar S. Naqvi"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://naqvia.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://github.com/naqvia"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : @aanaqvi
 facebook:
   username               :
   app_id                 :
@@ -83,8 +83,8 @@ author:
   name             : "Ammar S. Naqvi"
   avatar           : "https://wtoz2169xad1fy7dm21hr1w4-wpengine.netdna-ssl.com/wp-content/uploads/2020/04/LND_AF518DE8-1B02-4FE3-AEB0-65FEF269C8C8-300x227.jpg"
   bio              : "Bioinformatics Scientist"
-  location         : "Childrens Hospital of Philadelphia"
-  employer         : 
+  location         : "Philaelphia, PA"
+  employer         : "Childrens Hospital of Philadelphia"
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=ammar+s+naqvi"
   googlescholar    : "https://scholar.google.com/citations?user=VXP8W38AAAAJ&hl=en"
   email            :  "naqvia@chop.edu"
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "naqvia"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/ammar-naqvi-493a794/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-0625-666X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
