@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ammar S. Naqvi"
-  avatar           : "https://wtoz2169xad1fy7dm21hr1w4-wpengine.netdna-ssl.com/wp-content/uploads/2020/04/LND_AF518DE8-1B02-4FE3-AEB0-65FEF269C8C8-300x227.jpg"
+  avatar           : "/assets/img/profile.jpg"
   bio              : "Bioinformatics Scientist"
   location         : "Philaelphia, PA"
   employer         : "Childrens Hospital of Philadelphia"
