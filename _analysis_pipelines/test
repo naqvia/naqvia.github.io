@@ -1,3 +1,0 @@
-- name: "Splicing Analysis Pipeline"
-  url: "https://github.com/naqvia/splicing-pipeline"
-  description: "A workflow for identifying alternative splicing events from RNA-Seq data."
