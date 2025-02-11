@@ -7,6 +7,6 @@ main:
     url: /talks/  
 
   - title: "Analysis Pipelines & Resources"
-    url: /analyses/
+    url: /_analysis_pipelines
 
  
