@@ -2,6 +2,7 @@
 layout: archive
 title: "Analysis Pipelines"
 permalink: /analysis_pipelines/
+author_profile: true
 ---
 
 {% for pipeline in site.analysis_pipelines %}
