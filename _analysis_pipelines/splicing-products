@@ -1,7 +1,8 @@
 ---
-title: "My Pipeline"
+title: "Splicing Data Products"
 collection: analysis_pipelines
-permalink: /analysis_pipelines/my-pipeline/
-date: 2024-01-01
+date: 2025-02-11
+url: "https://github.com/d3b-center/splicing-data-products"
 ---
-Pipeline description goes here.
+
+This repository provides computational workflows and standardized data deliverables for the processing, reformatting, and curation of alternative splicing data derived from rMATS-merged TSV files. The workflows facilitate the integration, normalization, and annotation of splicing events, ensuring consistency and reproducibility in downstream analyses. Additionally, the repository supports data transformation for compatibility with statistical modeling, visualization, and functional interpretation of differential splicing patterns.
