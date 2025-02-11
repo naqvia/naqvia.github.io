@@ -1,6 +1,7 @@
 ---
 title: "Splicing Data Products"
 collection: analysis_pipelines
+type: analysis_pipelines
 permalink: /analysis_pipelines/splicing-products.md
 date: 2025-01-12
 ---
