@@ -4,13 +4,10 @@ layout: default
 permalink: /analysis_pipelines/
 ---
 
+## 🔬 Analysis Pipelines & Tools
 
+Here are my public GitHub repositories with finalized workflows and tools:
 
-### Analysis Pipelines & Resources  
-
-This section contains finalized and publicly available tools and workflow pipelines that I have developed.  
-
-#### 🔬 Bioinformatics Pipelines  
-
-
-For more tools, visit my [GitHub Profile](https://github.com/naqvia).
+{% for repo in site.data.analysis_pipelines %}
+- [**{{ repo.name }}**]({{ repo.url }}) - {{ repo.description }}
+{% endfor %}
