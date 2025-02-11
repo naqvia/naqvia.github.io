@@ -2,7 +2,7 @@
 title: "AutoGVP: a dockerized workflow integrating ClinVar and InterVar germline sequence variant classification"
 collection: publications
 abstract: 'With the increasing rates of exome and whole genome sequencing, the ability to classify large sets of germline sequencing variants using up-to-date American College of Medical Genetics—Association for Molecular Pathology (ACMG-AMP) criteria is crucial. Here, we present Automated Germline Variant Pathogenicity (AutoGVP), a tool that integrates germline variant pathogenicity annotations from ClinVar and sequence variant classifications from a modified version of InterVar (PVS1 strength adjustments, removal of PP5/BP6). This tool facilitates large-scale, clinically focused classification of germline sequence variants in a research setting.'
-date: 2018-10-24
+date: 2024-02-29
 venue: 'Nucleic Acids Research'
 paperurl: 'https://academic.oup.com/nar/article/46/21/11357/5144135'
 ---
