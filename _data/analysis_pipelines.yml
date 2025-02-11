@@ -1,0 +1,11 @@
+- name: "Splicing Analysis Pipeline"
+  url: "https://github.com/naqvia/splicing-pipeline"
+  description: "A workflow for identifying alternative splicing events from RNA-Seq data."
+
+- name: "Differential Expression Workflow"
+  url: "https://github.com/naqvia/differential-expression"
+  description: "Pipeline for detecting differentially expressed genes using DESeq2."
+
+- name: "Structural Variant Detection"
+  url: "https://github.com/naqvia/sv-detection"
+  description: "Tool for detecting structural variants from genomic sequencing data."
