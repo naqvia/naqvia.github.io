@@ -1,14 +1,10 @@
 ---
 layout: archive
-title: "Analysis Pipelines & Resources"
+title: "Analysis Pipelines"
 permalink: /analysis_pipelines/
-author_profile: true
 ---
 
-Here are my finalized GitHub repositories containing analysis pipelines and workflow tools.
-
-{% include base_path %}
-
-{% for repo in site.data.analysis_pipelines %}
-- [**{{ repo.name }}**]({{ repo.url }}) - {{ repo.description }}
+{% for pipeline in site.analysis_pipelines %}
+  <h2><a href="{{ pipeline.url }}">{{ pipeline.title }}</a></h2>
+  <p>{{ pipeline.excerpt }}</p>
 {% endfor %}
