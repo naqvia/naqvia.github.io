@@ -8,4 +8,4 @@ date: 2025-01-12
 paperurl: https://github.com/rokitalab/clk1-splicing
 ---
 
-Description: Scientific publication "Characterization of aberrant splicing in pediatric central nervous system tumors reveals CLK1 as a candidate oncogenic dependency" repo.
+Description: Scientific publication "Characterization of aberrant splicing in pediatric central nervous system tumors reveals CLK1 as a candidate oncogenic dependency" [repo](https://github.com/rokitalab/clk1-splicing).
