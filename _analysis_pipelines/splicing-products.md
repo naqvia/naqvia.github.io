@@ -1,7 +1,6 @@
 ---
 title: "Splicing Data Products"
 collection: analysis_pipelines
-type: "Undergraduate course"
 permalink: /analysis_pipelines/splicing-products.md
 date: 2025-01-12
 ---
