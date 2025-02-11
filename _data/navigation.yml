@@ -6,7 +6,7 @@ main:
   - title: "Presentations"
     url: /talks/  
 
-    - title: "Analysis Pipelines & Resources"
+  - title: "Analysis Pipelines & Resources"
     url: /analyses/
 
  
