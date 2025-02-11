@@ -2,7 +2,7 @@
 title: "Analysis Pipelines & Resources"
 layout: single
 author_profile: true
-permalink: /analysis_pipelines/
+permalink: /_analysis_pipelines/
 ---
 
 ## 🔬 Analysis Pipelines & Tools
