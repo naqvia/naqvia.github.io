@@ -1,6 +1,6 @@
 ---
 title: "Analysis Pipelines & Resources"
-layout: default
+layout: page
 permalink: /analysis_pipelines/
 ---
 
