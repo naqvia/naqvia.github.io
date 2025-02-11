@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ammar S. Naqvi"
-  avatar           : "/assets/img/profile.jpg"
+  avatar           : "https://naqvia.github.io/assets/img/profile.jpg"
   bio              : "Bioinformatics Scientist"
   location         : "Philaelphia, PA"
   employer         : "Childrens Hospital of Philadelphia"
