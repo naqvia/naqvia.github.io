@@ -189,7 +189,7 @@ collections:
     permalink: /:collection/:path/
   analysis_pipelines:
     output: true
-    permalink: /analysis_pipelines/:path/
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -225,6 +225,15 @@ defaults:
   - scope:
       path: ""
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _analysis_pipelines
+  - scope:
+      path: ""
+      type: analysis_pipelines
     values:
       layout: single
       author_profile: true
