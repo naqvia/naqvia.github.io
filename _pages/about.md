@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Ammar Naqvi is a Bioinformatics Scientist responsible for investigating a variety of large-scale multi-omic datasets to elucidate mechanisms in pediatric cancer. In particular he is utilizing machine learning and predictive modeling combined with the traditional molecular biology to understand basic molecular mechanisms underlying tumorigenesis. In harnessing and leveraging big data, he hopes his efforts will generate new hypotheses and advance biomedical science
+Ammar Naqvi is a Principal Bioinformatics Scientist at the Center for Data-Driven Discovery in Biomedicine (D3B) within the Childrens Hospital of Philadelpia, responsible for investigating a variety of large-scale multi-omic datasets to elucidate mechanisms in pediatric cancer. In particular he is utilizing machine learning and predictive modeling combined with the traditional molecular biology to understand basic molecular mechanisms underlying tumorigenesis. In harnessing and leveraging big data, he hopes his efforts will generate new hypotheses and advance biomedical science
 
 Ammar’s research focuses on combining his interdisciplinary expertise in Bioinformatics, RNA biology and cancer. His broad research interests are focused on understanding regulatory and transcriptional mechanisms that contribute to oncogenesis, tumor evolution and progression in pediatric cancers. He hopes in elucidating these fundamental processes, that will then inform therapeutic regimens and/or lead to novel therapeutics.
 
